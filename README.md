@@ -1,6 +1,6 @@
 # Android-Test2
 
-App de test que maneja.
+App de prueba que maneja.
 
 1. Imagenes
 2. Botones
